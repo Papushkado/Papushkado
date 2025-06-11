@@ -1,15 +1,15 @@
 <!-- ==================== TITRE « NEON » ==================== -->
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&pause=2000&color=00F7FF&background=111111&center=true&vCenter=true&width=600&height=120&lines=Stephen+Cohen+(Papushkado)" 
-    alt="Papushkado" />
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&pause=2000&color=00F7FF&background=111111&center=true&vCenter=true&width=600&height=120&lines=Papushkado" 
+    alt="Stephen Cohen - Papushkado" />
 </div>
 
 <p align="center">
   <a href="mailto:Stephen.cohen.pro@gmail.com">
     <img src="https://img.shields.io/badge/📧-Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="email"/>
   </a>
-  <a >
+  <a href="https://www.google.fr/maps?q=Place+de+la+Nation,+Paris,+75000,+fr">
     <img src="https://img.shields.io/badge/📍-Paris-white?style=for-the-badge&logo=google-maps&logoColor=0055FF" alt="location"/>
   </a>
   <a href="https://www.linkedin.com/in/stephen-cohen-491964163/">
