@@ -159,3 +159,15 @@ secops:    [EBIOS RM, Threat Modeling, Cryptography, CTFs]
 ml/data:   [pandas, XGBoost, PyMC3, Dash/Plotly]
 network:   [OpenWrt, FreeRadius, Linux, Bash]
 ```
+
+<span class="glitch" data-text="VALEURS & PASSIONS">VALEURS & PASSIONS</span>
+<div style="display:flex; justify-content:space-around; margin:1rem 0;"> <div align="center"> <img width="60" src="https://img.icons8.com/ios-filled/50/00ffff/rocket.png" alt="rocket"/> <p style="color:#0ff;">Explorer l’inconnu</p> </div> <div align="center"> <img width="60" src="https://img.icons8.com/ios-filled/50/ff00ff/book.png" alt="book"/> <p style="color:#f0f;">Simplifier le complexe</p> </div> <div align="center"> <img width="60" src="https://img.icons8.com/ios-filled/50/00f7ff/handshake.png" alt="handshake"/> <p style="color:#0ff;">Bâtir l’inattendu</p> </div> </div>
+<span class="glitch" data-text="PROJETS ANNEXES">PROJETS ANNEXES</span>
+
+    🌿 IPPermaculture – association open-source d’agroécologie, ateliers et guides pratiques.
+
+    🧠 Philosophie x Manga – essai libre accès sur les thèmes éthiques dans la pop-culture japonaise.
+
+    💼 Entrepreneurship Certificate – startup challenge de Polytechnique Paris, de l’idéation au pitch final.
+
+<div align="center" style="margin-top:2rem;"> <p class="neon-text">Prêt à hacker une idée ? <strong>Contacte-moi ! 🚀</strong></p> </div> ```
