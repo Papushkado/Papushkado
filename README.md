@@ -17,13 +17,14 @@ Actuellement étudiant en double diplôme à **Télécom Paris** (Master Cybers�
 ## 🎓 Ce que j'apprends & construis
 
 ### ⚡ Cybersécurité
-- 🏅 [CTFs](https://github.com/Papushkado/CTF-Writeups) : UnitedCTF (33ᵒ), MidnightCTF (13ᵒ), 404CTF (230ᵒ/3271)
+- 🏅 [CTFs](https://github.com/Papushkado/Write-ups-CTFs) : 404CTF (106°/2800) UnitedCTF 2024 (33ᵒ), MidnightCTF 2024 (13ᵒ), 404CTF 2024 (230ᵒ/3271)
 - 🎓 **IMSI Catcher** — Reverse engineering + démo présentation technique
 - ⚖️ **SSI Groupama** : Audit SWIFT, EBIOS RM, réglementation DORA
 
 ### ☁️ Cloud & DevOps
 - 📦 [DBCluster](https://github.com/Papushkado/DBCluster) : Cluster MySQL sur AWS avec proxy + gateway
-- 🧰 **WiFi Roaming**: Projet Réseau mesh avec OpenWrt + FreeRadius
+- 🌐 [Map & Reduce calculation](https://github.com/Papushkado/MapReduce) : Mise en application de la méthode de map and reduce sur un cluster AWS pour le traitement de relations sur les réseaux sociaux
+- 🧰 **WiFi Roaming**: Projet réseau mesh avec OpenWrt + FreeRadius
 
 ### 📊 Statistiques & Actuariat
 - 🤝 **SCOR Internal Model**: Modèle hybride ALM/DLM (Agregated / Detailed Loss Model) ouragans USA (stage)
@@ -33,9 +34,9 @@ Actuellement étudiant en double diplôme à **Télécom Paris** (Master Cybers�
 
 
 ### 🚀 IoT & nouvelles technos
-- 🌆 [IoT_Telecom](https://github.com/Papushkado/IoT_Telecom) : Plateforme cloud pour capteurs connectés
+- 🌆 [IoT_Telecom](https://github.com/Papushkado/ioT_Telecom) : Plateforme cloud pour capteurs connectés
 - 📊 [Indoor Localisation](https://github.com/Papushkado/GIN206_localisation_indoors) : Prototypage + publication
-- 🧱 [SMARTIES](https://github.com/Papushkado/SMARTIES-Soirees-Connectees) : Soirées connectées (API + capteurs)
+- 🧱 [SMARTIES](https://github.com/Papushkado/ioT_Telecom) : Soirées connectées (API + capteurs)
 
 ---
 
