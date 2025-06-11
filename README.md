@@ -112,7 +112,7 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
 </p>
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/64/FFD500/rocket.png" alt="rocket"/> 
-  <img src="https://img.icons8.com/ios-filled/64/00ffff/book.png" alt="book"/> 
+  <img src="https://img.icons8.com/ios-filled/64/#FFD500/book.png" alt="book"/> 
   <img src="https://img.icons8.com/ios-filled/64/FFD500/handshake.png" alt="handshake"/>
 </p>
 <p align="center" style="font-family:'Share Tech Mono',monospace;color:#FFD500;">
