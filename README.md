@@ -1,16 +1,16 @@
-<!-- ==================== CADRE CYBERPUNK 2077 ==================== -->
+
 <table align="center" border="3" cellpadding="8" cellspacing="0" style="border-color:#FF00FF;border-collapse:collapse;background:#0D0D0D;box-shadow:0 0 16px #FF00FF;">
   <tr>
     <td>
 
-<!-- TITRE ANIMÉ NEON -->
+
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=72&pause=1500&color=FF00FF&background=0D0D0D&center=true&vCenter=true&width=900&height=180&lines=Papushkado"
     alt="Papushkado" />
 </p>
 
-<!-- BADGES CONTACT ULTRA-STYLÉS -->
+
 <p align="center">
   <a href="mailto:Stephen.cohen.pro@gmail.com">
     <img src="https://img.shields.io/badge/✉️-Email-FF00FF?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<!-- BANDEROLE DE CONTEXTE -->
+
 <div align="center">
   <p style="font-family:'Share Tech Mono',monospace;color:#FF00FF;background:#111111;display:inline-block;padding:1rem 2rem;border-radius:0.75rem;box-shadow:0 0 12px #FF00FF;">
     🎓 Cybersécurité ／ Actuariat ／ IA & Cloud<br>
@@ -34,7 +34,7 @@
 
 ---
 
-<!-- SECTION DOMAINE D’EXPERTISE -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/DOMAINES%20D’EXPERTISE-FF00FF?style=for-the-badge&logo=none&logoColor=white" alt="Domaines d'expertise"/>
 </p>
@@ -92,7 +92,7 @@
 
 ---
 
-<!-- TECH STACK -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/TECH%20STACK-FF00FF?style=for-the-badge&logo=none&logoColor=white" alt="Tech Stack"/>
 </p>
@@ -106,7 +106,7 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
 
 ---
 
-<!-- VALEURS & PASSIONS -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/VALEURS%20%26%20PASSIONS-FF00FF?style=for-the-badge&logo=none&logoColor=white" alt="Valeurs & Passions"/>
 </p>
@@ -121,7 +121,7 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
 
 ---
 
-<!-- PROJETS ANNEXES -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/PROJETS%20ANNEXES-FF00FF?style=for-the-badge&logo=none&logoColor=white" alt="Projets Annexes"/>
 </p>
@@ -131,7 +131,7 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
 
 ---
 
-<!-- CALL TO ACTION -->
+
 <p align="center">
   <a href="mailto:Stephen.cohen.pro@gmail.com" style="text-decoration:none;">
     <span style="
