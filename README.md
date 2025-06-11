@@ -1,31 +1,31 @@
 
-<table align="center" border="3" cellpadding="8" cellspacing="0" style="border-color:##FFD500;border-collapse:collapse;background:#0D0D0D;box-shadow:0 0 16px #FF00FF;">
+<table align="center" border="3" cellpadding="8" cellspacing="0" style="border-color:##FFD500;border-collapse:collapse;background:#0D0D0D;box-shadow:0 0 16px #FFD500;">
   <tr>
     <td>
 
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=72&pause=1500&color=FF00FF&background=0D0D0D&center=true&vCenter=true&width=900&height=180&lines=Papushkado"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=72&pause=1500&color=FFD500&background=0D0D0D&center=true&vCenter=true&width=900&height=180&lines=Papushkado"
     alt="Papushkado" />
 </p>
 
 
 <p align="center">
   <a href="mailto:Stephen.cohen.pro@gmail.com">
-    <img src="https://img.shields.io/badge/✉️-Email-FF00FF?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/✉️-Email-FFD500?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.google.fr/maps?q=Place+de+la+Nation,+Paris">
-    <img src="https://img.shields.io/badge/📍-Paris-FF00FF?style=flat-square&logo=openstreetmap&logoColor=white" alt="Paris"/>
+    <img src="https://img.shields.io/badge/📍-Paris-FFD500?style=flat-square&logo=openstreetmap&logoColor=white" alt="Paris"/>
   </a>
   <a href="https://www.linkedin.com/in/stephen-cohen-491964163/">
-    <img src="https://img.shields.io/badge/🔗-LinkedIn-FF00FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/🔗-LinkedIn-FFD500?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 
 <div align="center">
-  <p style="font-family:'Share Tech Mono',monospace;color:#FF00FF;background:#111111;display:inline-block;padding:1rem 2rem;border-radius:0.75rem;box-shadow:0 0 12px #FF00FF;">
+  <p style="font-family:'Share Tech Mono',monospace;color:#FFD500;background:#111111;display:inline-block;padding:1rem 2rem;border-radius:0.75rem;box-shadow:0 0 12px #FFD500;">
     🎓 Cybersécurité ／ Actuariat ／ IA & Cloud<br>
     🔍 Ponts technique – risque – innovation<br>
     🚀 Toujours prêt à hacker l’avenir
@@ -36,10 +36,10 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DOMAINES%20D’EXPERTISE-FF00FF?style=for-the-badge&logo=none&logoColor=white" alt="Domaines d'expertise"/>
+  <img src="https://img.shields.io/badge/DOMAINES%20D’EXPERTISE-FFD500?style=for-the-badge&logo=none&logoColor=white" alt="Domaines d'expertise"/>
 </p>
 <details>
-  <summary style="font-family:'Orbitron',monospace;color:#FF00FF;font-size:1.2rem;">
+  <summary style="font-family:'Orbitron',monospace;color:#FFD500;font-size:1.2rem;">
     🥷 Cybersécurité & Red Team
   </summary>
 
@@ -52,7 +52,7 @@
 </details>
 
 <details>
-  <summary style="font-family:'Orbitron',monospace;color:#FF00FF;font-size:1.2rem;">
+  <summary style="font-family:'Orbitron',monospace;color:#FFD500;font-size:1.2rem;">
     ☁️ Cloud & Infra DevOps
   </summary>
 
@@ -65,7 +65,7 @@
 </details>
 
 <details>
-  <summary style="font-family:'Orbitron',monospace;color:#FF00FF;font-size:1.2rem;">
+  <summary style="font-family:'Orbitron',monospace;color:#FFD500;font-size:1.2rem;">
     📈 Actuariat & Risk Modelling
   </summary>
 
@@ -80,7 +80,7 @@
 </details>
 
 <details>
-  <summary style="font-family:'Orbitron',monospace;color:#FF00FF;font-size:1.2rem;">
+  <summary style="font-family:'Orbitron',monospace;color:#FFD500;font-size:1.2rem;">
     🤖 IoT & Prototypage
   </summary>
 
@@ -94,9 +94,9 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TECH%20STACK-FF00FF?style=for-the-badge&logo=none&logoColor=white" alt="Tech Stack"/>
+  <img src="https://img.shields.io/badge/TECH%20STACK-FFD500?style=for-the-badge&logo=none&logoColor=white" alt="Tech Stack"/>
 </p>
-<pre style="background:#111111;color:#FF00FF;padding:1rem;border-radius:0.5rem;font-family:'Share Tech Mono',monospace;">
+<pre style="background:#111111;color:#FFD500;padding:1rem;border-radius:0.5rem;font-family:'Share Tech Mono',monospace;">
 languages: [Python, C, Java, Kotlin, JavaScript, HTML/CSS, PHP]
 cloud:     [AWS, Terraform, Docker, Ansible, Azure Databricks]
 secops:    [EBIOS RM, Threat Modeling, Cryptography, CTF]
@@ -108,14 +108,14 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VALEURS%20%26%20PASSIONS-FF00FF?style=for-the-badge&logo=none&logoColor=white" alt="Valeurs & Passions"/>
+  <img src="https://img.shields.io/badge/VALEURS%20%26%20PASSIONS-FFD500?style=for-the-badge&logo=none&logoColor=white" alt="Valeurs & Passions"/>
 </p>
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/64/ff00ff/rocket.png" alt="rocket"/> 
+  <img src="https://img.icons8.com/ios-filled/64/FFD500/rocket.png" alt="rocket"/> 
   <img src="https://img.icons8.com/ios-filled/64/00ffff/book.png" alt="book"/> 
-  <img src="https://img.icons8.com/ios-filled/64/ff00ff/handshake.png" alt="handshake"/>
+  <img src="https://img.icons8.com/ios-filled/64/FFD500/handshake.png" alt="handshake"/>
 </p>
-<p align="center" style="font-family:'Share Tech Mono',monospace;color:#FF00FF;">
+<p align="center" style="font-family:'Share Tech Mono',monospace;color:#FFD500;">
   Explorer l’inconnu | Simplifier le complexe | Bâtir l’inattendu
 </p>
 
@@ -123,7 +123,7 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJETS%20ANNEXES-FF00FF?style=for-the-badge&logo=none&logoColor=white" alt="Projets Annexes"/>
+  <img src="https://img.shields.io/badge/PROJETS%20ANNEXES-FFD500?style=for-the-badge&logo=none&logoColor=white" alt="Projets Annexes"/>
 </p>
 
 - 🌿 **IPPermaculture** – guide & ateliers de permaculture étudiante.  
@@ -138,12 +138,12 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
     <span style="
       display:inline-block;
       padding:1rem 2rem;
-      background:#FF00FF;
+      background:#FFD500;
       color:#0D0D0D;
       font-family:'Orbitron',monospace;
       font-weight:bold;
       border-radius:1rem;
-      box-shadow:0 0 20px #FF00FF;
+      box-shadow:0 0 20px #FFD500;
     ">
       🥷 🚀 Prêt à hacker une idée ? Contacte-moi !
     </span>
