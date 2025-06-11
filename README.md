@@ -1,26 +1,8 @@
-<!-- ==================== TITRE NÉON (SVG) ==================== -->
+<!-- ==================== TITRE « NEON » ==================== -->
 <div align="center">
-  <svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <filter id="neon">
-        <feGaussianBlur stdDeviation="4" result="glow"/>
-        <feMerge>
-          <feMergeNode in="glow"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0ff"/>
-        <stop offset="100%" stop-color="#ff00ff"/>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="60%" text-anchor="middle"
-          font-family="Orbitron, sans-serif" font-size="48"
-          fill="url(#grad)" filter="url(#neon)"
-          style="animation: flicker 2s infinite;">
-      Stephen Cohen <tspan fill="#ff2dfc">(Papushkado)</tspan>
-    </text>
-  </svg>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&pause=2000&color=00F7FF&background=111111&center=true&vCenter=true&width=600&height=120&lines=Stephen+Cohen+(Papushkado)" 
+    alt="Stephen Cohen (Papushkado)" />
 </div>
 
 <p align="center">
@@ -37,107 +19,83 @@
 
 ---
 
-<!-- ==================== À PROPOS (fond animé SVG) ==================== -->
 <div align="center">
-  <svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0ff"/>
-        <stop offset="50%" stop-color="#ff00ff"/>
-        <stop offset="100%" stop-color="#00f7ff"/>
-      </linearGradient>
-      <rect id="bg" x="0" y="0" width="100%" height="100" rx="12" ry="12"/>
-    </defs>
-    <use href="#bg" fill="url(#g2)">
-      <animate attributeName="x" values="0;400;0" dur="15s" repeatCount="indefinite"/>
-    </use>
-    <text x="50%" y="55%" text-anchor="middle"
-          fill="#111" font-family="Share Tech Mono, monospace" font-size="18">
-      Étudiant en <tspan font-weight="bold">Cybersécurité</tspan> ／ 
-      <tspan font-weight="bold">Actuariat</tspan> ／ <tspan font-weight="bold">IA & Cloud</tspan>
-    </text>
-  </svg>
+  <p style="font-family: 'Share Tech Mono', monospace; color:#0ff; background:#111; display:inline-block; padding:0.5rem 1rem; border-radius:0.5rem;">
+    🎓 Cybersécurité ／ Actuariat ／ IA & Cloud  
+    🔍 Ponts technique-risque-innovation  
+    🚀 Toujours prêt à hacker l’avenir
+  </p>
 </div>
 
 ---
 
-## <svg width="200" height="40" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glitch">
-      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="3" result="noise"/>
-      <feDisplacementMap in="SourceGraphic" in2="noise" scale="10"/>
-    </filter>
-  </defs>
-  <text x="0" y="30" font-family="Share Tech Mono, monospace" font-size="24" fill="#fff" filter="url(#glitch)">
-    DOMAINES D’EXPERTISE
-  </text>
-</svg>
+## 👾 DOMAINES D’EXPERTISE
 
-<details>
-  <summary style="color:#0ff; font-family:Orbitron, monospace; font-size:1.1rem; text-shadow:0 0 8px #0ff;">
+<details open>
+  <summary style="font-family: 'Orbitron', monospace; color:#0ff; font-size:1.1rem;">
     🛡️ Cybersécurité & Red Team
   </summary>
-  <ul>
-    <li><strong>Write-ups CTFs</strong> – exploitation de buffer overflows, forçage RSA sur-mesure, web-hacking (404CTF, UnitedCTF, MidnightCTF).</li>
-    <li><strong>IMSI Catcher</strong> – simulateur et reverse-engineering de relais GSM, workshop detection/mitigation.</li>
-    <li><strong>SSI Groupama</strong> – audit SWIFT, conformité DORA, méthode EBIOS RM pour cartographie des risques.</li>
-  </ul>
+
+  - **Write-ups CTFs**  
+    Exploitation de buffer overflows, contournement RSA, web-hacking (404CTF, UnitedCTF, MidnightCTF).
+  - **IMSI Catcher**  
+    Simulateur & reverse-engineering de faux relais GSM, atelier détection/mitigation.
+  - **SSI Groupama**  
+    Audit SWIFT, conformité DORA, cartographie des risques via EBIOS RM.
 </details>
 
-<details>
-  <summary style="color:#0ff; font-family:Orbitron, monospace; font-size:1.1rem; text-shadow:0 0 8px #0ff;">
+<details open>
+  <summary style="font-family: 'Orbitron', monospace; color:#0ff; font-size:1.1rem;">
     ☁️ Cloud & Infra DevOps
   </summary>
-  <ul>
-    <li><strong>DBCluster</strong> – cluster MySQL HA sur AWS, ProxySQL, Terraform & Ansible.</li>
-    <li><strong>MapReduce Social</strong> – pipeline EMR pour analyser graphes Twitter (centralité, détection de communautés).</li>
-    <li><strong>WiFi Mesh</strong> – OpenWrt & FreeRadius, WPA2-Enterprise, provisioning Docker/Shell.</li>
-  </ul>
+
+  - **DBCluster**  
+    Cluster MySQL HA sur AWS (EC2 + RDS), ProxySQL, Terraform & Ansible.
+  - **MapReduce Social**  
+    Pipeline EMR pour analyser graphes Twitter (centralité, détection de communautés).
+  - **WiFi Mesh**  
+    OpenWrt & FreeRadius, WPA2-Enterprise, provisioning Docker/Shell.
 </details>
 
-<details>
-  <summary style="color:#0ff; font-family:Orbitron, monospace; font-size:1.1rem; text-shadow:0 0 8px #0ff;">
+<details open>
+  <summary style="font-family: 'Orbitron', monospace; color:#0ff; font-size:1.1rem;">
     📈 Actuariat & Risk Modelling
   </summary>
-  <ul>
-    <li><strong>SCOR Internal Model</strong> – ALM/DLM pour ouragans USA, simulation Monte-Carlo, back-tests NOAA.</li>
-    <li><strong>Cyber CAT Models</strong> – scénarios sinistres cyber, calibrage pertes, dashboard Dash/Plotly.</li>
-    <li><strong>Bayesian Statistics</strong> – MCMC (PyMC3) vs. ML classique pour durée de vie d’équipements.</li>
-    <li><strong>Real-Estate Prediction</strong> – XGBoost + DVF, feature engineering géospatial, interface Streamlit.</li>
-  </ul>
+
+  - **SCOR Internal Model**  
+    ALM/DLM pour ouragans USA, simulation Monte-Carlo, back-tests NOAA.
+  - **Cyber CAT Models**  
+    Scénarios sinistres cyber, calibrage de pertes, dashboard Dash/Plotly.
+  - **Bayesian Statistics**  
+    MCMC (PyMC3) vs ML classique pour estimation de durée de vie.
+  - **Real-Estate Prediction**  
+    XGBoost + DVF, feature engineering géospatial, interface Streamlit.
 </details>
 
-<details>
-  <summary style="color:#0ff; font-family:Orbitron, monospace; font-size:1.1rem; text-shadow:0 0 8px #0ff;">
+<details open>
+  <summary style="font-family: 'Orbitron', monospace; color:#0ff; font-size:1.1rem;">
     🤖 IoT & Prototypage
   </summary>
-  <ul>
-    <li><strong>IoT_Telecom</strong> – MQTT, InfluxDB, Grafana en Docker, alerting via Webhooks.</li>
-    <li><strong>Indoor Localisation</strong> – Bluetooth fingerprinting, K-NN/SVM, précision &lt; 2 m.</li>
-    <li><strong>SMARTIES</strong> – soirées connectées: API WebSocket + capteurs pour show lumières/son.</li>
-  </ul>
+
+  - **IoT_Telecom**  
+    MQTT, InfluxDB, Grafana en Docker, alerting Webhooks.
+  - **Indoor Localisation**  
+    Bluetooth fingerprinting, K-NN/SVM, précision < 2 m.
+  - **SMARTIES**  
+    Soirées connectées : API WebSocket + capteurs pour show lumières/son.
 </details>
 
 ---
 
-## <svg width="180" height="40" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glitch2">
-      <feTurbulence type="turbulence" baseFrequency="0.05" numOctaves="2" result="n2"/>
-      <feDisplacementMap in="SourceGraphic" in2="n2" scale="8"/>
-    </filter>
-  </defs>
-  <text x="0" y="30" font-family="Share Tech Mono, monospace" font-size="24" fill="#fff" filter="url(#glitch2)">
-    TECH STACK
-  </text>
-</svg>
+## 🛠️ TECH STACK
 
 ```yaml
 languages: [Python, C, Java, Kotlin, JavaScript, HTML/CSS, PHP]
 cloud:     [AWS, Terraform, Docker, Ansible, Azure Databricks]
-secops:    [EBIOS RM, Threat Modeling, Cryptography, CTFs]
+secops:    [EBIOS RM, Threat Modeling, Cryptography, CTF]
 ml/data:   [pandas, XGBoost, PyMC3, Dash/Plotly]
 network:   [OpenWrt, FreeRadius, Linux, Bash]
+
 ```
 <svg width="220" height="40" xmlns="http://www.w3.org/2000/svg">
 <defs> <filter id="glitch3"> <feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="4" result="n3"/> <feDisplacementMap in="SourceGraphic" in2="n3" scale="12"/> </filter> </defs> <text x="0" y="30" font-family="Share Tech Mono, monospace" font-size="24" fill="#fff" filter="url(#glitch3)"> VALEURS & PASSIONS </text> </svg> <div align="center"> <img src="https://img.icons8.com/ios-filled/60/00ffff/rocket.png" alt="rocket"/> <img src="https://img.icons8.com/ios-filled/60/ff00ff/book.png" alt="book"/> <img src="https://img.icons8.com/ios-filled/60/00f7ff/handshake.png" alt="handshake"/> </div> <p align="center" style="font-family:'Share Tech Mono', monospace; color:#0ff;"> Explorer l’inconnu | Simplifier le complexe | Bâtir l’inattendu </p>
