@@ -44,9 +44,9 @@
   </summary>
 
   - [**Write-ups CTFs**](https://github.com/Papushkado/Write-ups-CTFs)  
-    🚩 Buffer overflow, RSA custom & web-hacking (404CTF, UnitedCTF, MidnightCTF).  
+    🚩 OSINT, web-hacking, JWT, Cryptographie, IA, Quantique (404CTF, UnitedCTF, MidnightCTF).  
   - **IMSI Catcher**  
-    🛰️ Simulateur & reverse-engineering de faux relais GSM.  
+    🛰️ Simulateur & reverse-engineering de faux relais GSM, atelier détection/mitigation
   - **SSI DORA – Groupama AM**  
     🔒 Audit SWIFT, conformité DORA, cartographie des risques (EBIOS RM).  
 </details>
@@ -57,9 +57,9 @@
   </summary>
 
   - [**DBCluster**](https://github.com/Papushkado/DBCluster)  
-    ☁️ MySQL HA AWS, ProxySQL, Terraform & Ansible.  
+    ☁️ Cluster MySQL HA sur AWS , ProxySQL, LB & Security. 
   - [**MapReduce Social**](https://github.com/Papushkado/MapReduce)  
-    📊 EMR pipeline pour graphes Twitter : centralité & communautés.  
+    📊 Application de la méthode Map / Reduce afin de déterminer les relations sociales dans un réseau social.  
   - **WiFi Mesh**  
     🌐 OpenWrt & FreeRadius, WPA2-Enterprise, provisioning Docker/Shell.  
 </details>
@@ -70,11 +70,11 @@
   </summary>
 
   - **Modèle Hybride ALM/DLM – SCOR**  
-    🌪️ Pertes ouragans USA, back-testing NOAA & Monte-Carlo.  
+    🌪️ Pertes ouragans USA.
   - **Cyber CAT Models – Dattak**  
-    🤖 Scénarios sinistres cyber & dashboard Dash/Plotly.  
+    🤖 Modélisation CAT Cyber empirique & scénario, calibrage de pertes, dashboard. 
   - [**Bayesian Statistics**](https://github.com/Papushkado/Bayesian_Statistics)  
-    📐 MCMC (PyMC3) vs ML classique pour vie machine.  
+    📐 MCMC (PyMC3) vs ML classique pour estimation de durée de vie.
   - [**Real-Estate Prediction**](https://github.com/Papushkado/Real-Estate-predictions)  
     🏠 XGBoost + DVF, feature engineering & Streamlit.  
 </details>
@@ -85,7 +85,7 @@
   </summary>
 
   - [**Indoor Localisation**](https://github.com/Papushkado/GIN206_localisation_indoors)  
-    📶 Bluetooth fingerprinting, K-NN/SVM, précision <2 m.  
+    📶 Papier de Recherche en binôme sur la localisation Indoor, bluetooth fingerprinting, K-NN/SVM. 
   - [**SMARTIES**](https://github.com/Papushkado/ioT_Telecom)  
     🎉 Soirées connectées : API WebSocket + capteurs.  
 </details>
