@@ -6,20 +6,20 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=72&pause=1500&color=7FFF00&background=0D0D0D&center=true&vCenter=true&width=900&height=180&lines=Papushkado"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=72&pause=1500&color=08F7FE&background=0D0D0D&center=true&vCenter=true&width=900&height=180&lines=Papushkado"
     alt="Papushkado" />
 </p>
 
 
 <p align="center">
   <a href="mailto:Stephen.cohen.pro@gmail.com">
-    <img src="https://img.shields.io/badge/✉️-Email-7FFF00?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/✉️-Email-08F7FE?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.google.fr/maps?q=Place+de+la+Nation,+Paris">
-    <img src="https://img.shields.io/badge/📍-Paris-7FFF00?style=flat-square&logo=openstreetmap&logoColor=white" alt="Paris"/>
+    <img src="https://img.shields.io/badge/📍-Paris-08F7FE?style=flat-square&logo=openstreetmap&logoColor=white" alt="Paris"/>
   </a>
   <a href="https://www.linkedin.com/in/stephen-cohen-491964163/">
-    <img src="https://img.shields.io/badge/🔗-LinkedIn-7FFF00?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/🔗-LinkedIn-08F7FE?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DOMAINES%20D’EXPERTISE-7FFF00?style=for-the-badge&logo=none&logoColor=white" alt="Domaines d'expertise"/>
+  <img src="https://img.shields.io/badge/DOMAINES%20D’EXPERTISE-08F7FE?style=for-the-badge&logo=none&logoColor=white" alt="Domaines d'expertise"/>
 </p>
 <details>
   <summary style="font-family:'Orbitron',monospace;color:#08F7FE;font-size:1.2rem;">
@@ -94,7 +94,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TECH%20STACK-7FFF00?style=for-the-badge&logo=none&logoColor=white" alt="Tech Stack"/>
+  <img src="https://img.shields.io/badge/TECH%20STACK-08F7FE?style=for-the-badge&logo=none&logoColor=white" alt="Tech Stack"/>
 </p>
 <pre style="background:#111111;color:#08F7FE;padding:1rem;border-radius:0.5rem;font-family:'Share Tech Mono',monospace;">
 languages: [Python, C, Java, Kotlin, JavaScript, HTML/CSS, PHP]
@@ -108,12 +108,12 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VALEURS%20%26%20PASSIONS-7FFF00?style=for-the-badge&logo=none&logoColor=white" alt="Valeurs & Passions"/>
+  <img src="https://img.shields.io/badge/VALEURS%20%26%20PASSIONS-08F7FE?style=for-the-badge&logo=none&logoColor=white" alt="Valeurs & Passions"/>
 </p>
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/64/7FFF00/rocket.png" alt="rocket"/> 
+  <img src="https://img.icons8.com/ios-filled/64/08F7FE/rocket.png" alt="rocket"/> 
   <img src="https://img.icons8.com/ios-filled/64/08F7FE/book.png" alt="book"/> 
-  <img src="https://img.icons8.com/ios-filled/64/7FFF00/handshake.png" alt="handshake"/>
+  <img src="https://img.icons8.com/ios-filled/64/08F7FE/handshake.png" alt="handshake"/>
 </p>
 <p align="center" style="font-family:'Share Tech Mono',monospace;color:#08F7FE;">
   Explorer l’inconnu | Simplifier le complexe | Bâtir l’inattendu
@@ -123,7 +123,7 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJETS%20ANNEXES-7FFF00?style=for-the-badge&logo=none&logoColor=white" alt="Projets Annexes"/>
+  <img src="https://img.shields.io/badge/PROJETS%20ANNEXES-08F7FE?style=for-the-badge&logo=none&logoColor=white" alt="Projets Annexes"/>
 </p>
 
 - 🌿 **IPPermaculture** – guide & ateliers de permaculture étudiante.  
