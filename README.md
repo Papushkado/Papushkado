@@ -125,8 +125,9 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
 <p align="center">
   <img src="https://img.shields.io/badge/PROJETS%20ANNEXES-FF00FF?style=for-the-badge&logo=none&logoColor=white" alt="Projets Annexes"/>
 </p>
-- 🌿 **IPPermaculture** – guide & ateliers d’agroécologie étudiante.  
-- 🧠 **Philosophie × Manga** – essai open-access sur éthique pop-culture.  
+
+- 🌿 **IPPermaculture** – guide & ateliers de permaculture étudiante.  
+- 🧠 **Philosophie × Manga** – essai open-access (sur demande) sur éthique pop-culture.  
 - 💼 **Entrepreneurship Cert.** – startup challenge Polytechnique Paris.
 
 ---
