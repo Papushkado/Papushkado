@@ -1,70 +1,116 @@
-# 🤖 Stephen Cohen (Papushkado)
+<!-- ==================== BANNIÈRE NÉON ==================== -->
+<div align="center">
+  <!-- SVG néon text inline pour un rendu futuriste -->
+  <svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <filter id="neon">
+        <feGaussianBlur stdDeviation="4" result="glow"/>
+        <feMerge>
+          <feMergeNode in="glow"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00F7FF"/>
+        <stop offset="100%" stop-color="#FF00FF"/>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="60%" text-anchor="middle" fill="url(#grad)"
+          font-family="Orbitron, sans-serif" font-size="48" filter="url(#neon)">
+      Stephen Cohen (Papushkado)
+    </text>
+  </svg>
+</div>
 
-> Passionné par la **cybersécurité**, l'**actuariat** et les **technologies de pointe**, j'explore sans cesse de nouveaux domaines. Ma principale motivation : **apprendre** 🚀
-
+<!-- ==================== BADGES ANIMÉS ==================== -->
 <p align="center">
-  <a href="mailto:Stephen.cohen.pro@gmail.com"><img src="https://img.shields.io/badge/email-Stephen.Cohen-red?style=for-the-badge&logo=gmail" alt="email"></a>
-  <a href="#"><img src="https://img.shields.io/badge/localisation-Paris-blue?style=for-the-badge&logo=google-maps" alt="location"></a>
-  <a href="https://www.linkedin.com/in/stephen-cohen-491964163/"><img src="https://img.shields.io/badge/linkedin-Stephen_Cohen-blue?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
+  <a href="mailto:Stephen.cohen.pro@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/📧-Email-red?style=for-the-badge&logo=gmail&logoColor=white&animation=glow" />
+  </a>
+  <a href="#">
+    <img alt="Paris" src="https://img.shields.io/badge/📍-Paris-0055FF?style=for-the-badge&logo=mapbox&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://www.linkedin.com/in/stephen-cohen-491964163/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
----
-
-## 🌍 Qui suis-je ?
-
-Actuellement étudiant en double diplôme à **Télécom Paris** (Master Cybersécurité - Cloud & Mobile Networks - Data Science) et à **l'ISUP** (Master en actuariat), j'ai complété mon parcours à **Polytechnique Montréal** en 2024 pour me spécialiser en **cloud security** et **intelligence artificielle**. Mes domaines de prédilection sont la cybersécurité, la modélisation du risque, les statistiques bayésiennes et l'architecture cloud.
 
 ---
 
-## 🎓 Ce que j'apprends & construis
-
-### ⚡ Cybersécurité
-- 🏅 [CTFs](https://github.com/Papushkado/Write-ups-CTFs) : 404CTF (106°/2893) UnitedCTF 2024 (33ᵒ), MidnightCTF 2024 (13ᵒ), 404CTF 2024 (230ᵒ/3271)
-- 🎓 **IMSI Catcher** — Reverse engineering + démo présentation technique
-- ⚖️ **SSI Groupama** : Audit SWIFT, EBIOS RM, réglementation DORA (stage)
-
-### ☁️ Cloud & DevOps
-- 📦 [DBCluster](https://github.com/Papushkado/DBCluster) : Cluster MySQL sur AWS avec proxy + gateway
-- 🌐 [Map & Reduce calculation](https://github.com/Papushkado/MapReduce) : Mise en application de la méthode de map and reduce sur un cluster AWS pour le traitement de relations sur les réseaux sociaux
-- 🧰 **WiFi Roaming**: Projet réseau mesh avec OpenWrt + FreeRadius
-
-### 📊 Statistiques & Actuariat
-- 🤝 **SCOR Internal Model**: Modèle hybride ALM/DLM (Agregated / Detailed Loss Model) ouragans USA (stage)
-- 🤖 **Cyber CAT Models**: Modèles de sinistres cyber (empirique + scénario) (Stage)
-- 🌐 [Bayesian_Statistics](https://github.com/Papushkado/Bayesian_Statistics) : Modélisation bayésienne de durée de vie
-- 🏠 [Real-Estate‑predictions](https://github.com/Papushkado/Real-Estate-predictions) : Prédiction immobilière (XGBoost, DVF)
-
-
-### 🚀 IoT & nouvelles technos
-- 🌆 [IoT_Telecom](https://github.com/Papushkado/ioT_Telecom) : Plateforme cloud pour capteurs connectés
-- 📊 [Indoor Localisation](https://github.com/Papushkado/GIN206_localisation_indoors) : Prototypage + publication
-- 🧱 [SMARTIES](https://github.com/Papushkado/ioT_Telecom) : Soirées connectées (API + capteurs)
+<div align="center" style="background:#111; padding:1rem; border-radius:1rem; box-shadow:0 0 20px #00F7FF;">
+  <p style="color:#0ff; font-family:monospace;">
+    🎓 Étudiant en **Cybersécurité** ／ **Actuariat** ／ **IA & Cloud**<br/>
+    🔍 Ponts entre technique, risques et innovation<br/>
+    🚀 Toujours en quête de défis « hackables »
+  </p>
+</div>
 
 ---
 
-## 📊 Compétences techniques
+## 👾 DOMAINES D’EXPERTISE
 
-| Domaine         | Compétences                                                                 |
-|-----------------|------------------------------------------------------------------------------|
-| Programmation   | Python, C, Kotlin, Java, JS, HTML/CSS, PHP                                  |
-| Cloud & Infra   | AWS, Docker, Azure Databricks, Terraform, Ansible                           |
-| Données & ML    | Pandas, Seaborn, XGBoost, modélisation bayésienne                             |
-| Réseau & Syst.  | OpenWrt, FreeRadius, Linux, Bash                                             |
-| Cybersécurité    | EBIOS RM, cryptographie, CTI, CTFs, audit SSI                             |
+<details open>
+  <summary style="font-size:1.1rem; font-weight:bold; cursor:pointer;">
+    🛡️ Cybersécurité & Red Team
+  </summary>
+
+  - 🎯 **Write-ups CTFs**  
+    Analyse et résolution de challenges (pwn, crypto, web) sur 404CTF, UnitedCTF et MidnightCTF. Exemples : exploitation de buffer overflow, déchiffrement RSA custom, et bypass d’UAC par DLL hijacking.
+  - 🛰️ **IMSI Catcher**  
+    Conception d’un simulateur d’IMSI-catcher, reverse-engineering de firmwares radio, et présentation technique de la détection et mitigation des faux relais cellulaires.
+  - ⚖️ **SSI Groupama**  
+    Audit de la plateforme SWIFT, revue de conformité DORA, application de la méthode EBIOS RM pour identification et réduction des risques critiques.
+</details>
+
+<details>
+  <summary style="font-size:1.1rem; font-weight:bold; cursor:pointer;">
+    ☁️ Cloud & Infra DevOps
+  </summary>
+  
+  - 📡 **DBCluster**  
+    Déploiement d’un cluster MySQL haute-disponibilité sur AWS (EC2 + RDS), configuration de ProxySQL et d’une API de gestion, avec scripts Terraform et playbooks Ansible.
+  - 🔄 **MapReduce Social Graph**  
+    Implémentation d’une pipeline MapReduce sur EMR pour analyser des datasets Twitter : détection de communautés, calcul de centralité, et visualisation réseau interactive.
+  - 🌐 **WiFi Roaming Mesh**  
+    Mise en place d’un réseau mesh OpenWrt + FreeRadius, configuration WPA2-Enterprise, automatisation du provisioning de nouveaux nœuds via Docker et scripts shell.
+</details>
+
+<details>
+  <summary style="font-size:1.1rem; font-weight:bold; cursor:pointer;">
+    📈 Actuariat & Risk Modelling
+  </summary>
+  
+  - 🌪️ **SCOR Internal Model**  
+    Développement d’un modèle hybride ALM/DLM pour estimation de pertes liées aux ouragans aux USA. Back-testing sur données NOAA, simulation Monte-Carlo, KPI Solvabilité II.
+  - 🤖 **Cyber CAT Models**  
+    Élaboration de scénarios de sinistres cyber : collecte de données breach, calibration de distributions de perte, et dashboard interactif en Dash/Plotly.
+  - 🌐 **Bayesian Statistics**  
+    Modélisation bayésienne de durée de vie d’équipements industriels, construction de priors adaptés, estimation par MCMC (PyMC3) et comparaison avec maximum de vraisemblance.
+  - 🏘️ **Real-Estate Prediction**  
+    Projet XGBoost sur base DVF pour prédire les prix immobiliers : feature engineering géospatial, validation croisée temporelle, et exposé des performances via Streamlit.
+</details>
+
+<details>
+  <summary style="font-size:1.1rem; font-weight:bold; cursor:pointer;">
+    🤖 IoT & Prototypage
+  </summary>
+  
+  - 🌍 **IoT_Telecom**  
+    Plateforme Dockerisée de collecte et traitement de données capteurs (MQTT + InfluxDB + Grafana), dashboard temps réel et alerting via Webhooks.
+  - 🧭 **Indoor Localisation**  
+    Solution Bluetooth fingerprinting : calibration de map de signaux, algorithme K-NN et SVM, précision <2 m en environnement de bureau.
+  - 🎉 **SMARTIES**  
+    Infrastructure API + capteurs pour soirées connectées : interactions mobiles via WebSocket, automatisation d’effets lumières et son synchronisés.
+</details>
 
 ---
 
-## 🌿 Ce qui me motive
+## 🛠️ TECH STACK
 
-J'ai une soif constante de **comprendre en profondeur**, d'**explorer de nouveaux domaines** et de **créer des ponts** entre technologies, réglementation, cybersécurité et actuariat. J'aime **construire, modéliser, prototyper**, mais surtout **apprendre** 📚.
-
----
-
-## 🌟 Divers
-
-- 🌿 **Permaculture** : Fondateur de l'association IPPermaculture
-- 🌎 **Philosophie & manga** : Auteur d'un essai sur les valeurs philosophiques dans les mangas
-- 🎸 **Entreprenariat** : Participant au programme Entrepreneurship Certificate de Polytechnique
-
----
-
-Merci pour la visite ✨ N'hésite pas à me contacter pour discuter tech, actuariat ou cybersécurité !
+```yaml
+languages: [Python, C, Java, Kotlin, JavaScript, HTML/CSS, PHP]
+cloud:     [AWS, Terraform, Docker, Ansible, Azure Databricks]
+secops:    [EBIOS RM, Threat Modeling, Cryptography, CTF]
+ml/data:   [pandas, XGBoost, PyMC3, Dash/Plotly]
+network:   [OpenWrt, FreeRadius, Linux, Bash]
+```
