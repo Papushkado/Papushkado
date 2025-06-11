@@ -49,10 +49,10 @@ Stephen Cohen - Papushkado
     ☁️ Cloud & Infra DevOps
   </summary>
 
-  - **DBCluster**  
-    Cluster MySQL HA sur AWS (EC2 + RDS), ProxySQL, Terraform & Ansible.
-  - **MapReduce Social**  
-    Pipeline EMR pour analyser graphes Twitter (centralité, détection de communautés).
+  - [**Data Base Cluster**](https://github.com/Papushkado/DBCluster)  
+    Cluster MySQL HA sur AWS , ProxySQL, LB & Security.
+  - [**MapReduce Social**](https://github.com/Papushkado/MapReduce)  
+    Application de la méthode Map / Reduce afin de déterminer les relations sociales dans un réseau social.
   - **WiFi Mesh**  
     OpenWrt & FreeRadius, WPA2-Enterprise, provisioning Docker/Shell.
 </details>
@@ -62,13 +62,13 @@ Stephen Cohen - Papushkado
     📈 Actuariat & Risk Modelling
   </summary>
 
-  - **SCOR Internal Model**  
-    ALM/DLM pour ouragans USA, simulation Monte-Carlo, back-tests NOAA.
-  - **Cyber CAT Models**  
-    Scénarios sinistres cyber, calibrage de pertes, dashboard Dash/Plotly.
-  - **Bayesian Statistics**  
+  - **Modèle Interne Hybride ALM/DLM - SCOR**  
+    ALM/DLM pour ouragans USA.
+  - **Cyber CAT Models - Dattak**  
+    Modélisation CAT Cyber empirique & scénario, calibrage de pertes, dashboard.
+  - [**Bayesian Statistics**](https://github.com/Papushkado/Bayesian_Statistics)  
     MCMC (PyMC3) vs ML classique pour estimation de durée de vie.
-  - **Real-Estate Prediction**  
+  - [**Real-Estate Prediction**](https://github.com/Papushkado/Real-Estate-predictions) 
     XGBoost + DVF, feature engineering géospatial, interface Streamlit.
 </details>
 
@@ -77,11 +77,9 @@ Stephen Cohen - Papushkado
     🤖 IoT & Prototypage
   </summary>
 
-  - **IoT_Telecom**  
-    MQTT, InfluxDB, Grafana en Docker, alerting Webhooks.
-  - **Indoor Localisation**  
-    Bluetooth fingerprinting, K-NN/SVM, précision < 2 m.
-  - **SMARTIES**  
+  - [**Indoor Localisation**](https://github.com/Papushkado/GIN206_localisation_indoors)
+    Papier de Recherche en binôme sur la localisation Indoor, bluetooth fingerprinting, K-NN/SVM.
+  - [**SMARTIES**](https://github.com/Papushkado/ioT_Telecom)
     Soirées connectées : API WebSocket + capteurs pour show lumières/son.
 </details>
 
@@ -102,9 +100,9 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
 <svg width="200" height="40" xmlns="http://www.w3.org/2000/svg">
 <defs> <filter id="glitch4"> <feTurbulence type="turbulence" baseFrequency="0.04" numOctaves="3" result="n4"/> <feDisplacementMap in="SourceGraphic" in2="n4" scale="10"/> </filter> </defs> <text x="0" y="30" font-family="Share Tech Mono, monospace" font-size="24" fill="#fff" filter="url(#glitch4)"> PROJETS ANNEXES </text> </svg>
 
-    🌿 IPPermaculture – guide open-source et ateliers pour étudiants en agroécologie.
+    🌿 IPPermaculture – guide open-source et ateliers pour étudiants en permaculture.
 
-    🧠 Philosophie x Manga – essai libre accès sur l’éthique dans la pop-culture japonaise.
+    🧠 Philosophie x Manga – essai libre accès (sur demande) sur l’éthique dans la pop-culture japonaise.
 
     💼 Entrepreneurship Certificate – startup challenge de Polytechnique Paris, de l’idéation au pitch.
 
