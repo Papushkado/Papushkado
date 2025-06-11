@@ -111,9 +111,9 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
   <img src="https://img.shields.io/badge/VALEURS%20%26%20PASSIONS-009FDA?style=for-the-badge&logo=none&logoColor=white" alt="Valeurs & Passions"/>
 </p>
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/64/009FDA/rocket.png" alt="rocket"/> 
+  <img src="https://img.icons8.com/ios-filled/64/D90429/rocket.png" alt="rocket"/> 
   <img src="https://img.icons8.com/ios-filled/64/009FDA/book.png" alt="book"/> 
-  <img src="https://img.icons8.com/ios-filled/64/009FDA/handshake.png" alt="handshake"/>
+  <img src="https://img.icons8.com/ios-filled/64/00C853/handshake.png" alt="handshake"/>
 </p>
 <p align="center" style="font-family:'Share Tech Mono',monospace;color:#009FDA;">
   Explorer l’inconnu | Simplifier le complexe | Bâtir l’inattendu
