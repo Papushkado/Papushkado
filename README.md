@@ -1,116 +1,161 @@
-<!-- ==================== BANNIÈRE NÉON ==================== -->
+<!-- ======================= STYLE GÉNÉRAL ======================= -->
+<style>
+  /* Néon glow et flicker */
+  @keyframes flicker {
+    0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { opacity: 1; }
+    20%, 24%, 55% { opacity: 0.4; }
+  }
+  .neon-text {
+    color: #0ff;
+    text-shadow:
+      0 0 2px #0ff,
+      0 0 8px #0ff,
+      0 0 16px #0ff,
+      0 0 32px #ff2dfc;
+    animation: flicker 2s infinite;
+    font-family: 'Orbitron', sans-serif;
+  }
+  /* Fond animé par dégradé mouvant */
+  .bg-gradient {
+    background: linear-gradient(270deg, #0ff, #ff00ff, #00f7ff, #ff0055);
+    background-size: 800% 800%;
+    animation: gradientBG 15s ease infinite;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 20px rgba(0,255,255,0.5);
+  }
+  @keyframes gradientBG {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  /* Glitch effect pour titres */
+  .glitch {
+    position: relative;
+    color: #fff;
+    font-size: 2rem;
+    font-family: 'Share Tech Mono', monospace;
+  }
+  .glitch::before,
+  .glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    left: 0; top: 0;
+    width: 100%; height: 100%;
+    opacity: 0.8;
+    clip: rect(0, 900px, 0, 0);
+  }
+  .glitch::before {
+    animation: glitchTop 2s infinite linear alternate-reverse;
+    color: #0ff;
+    text-shadow: -2px -2px #ff00ff;
+  }
+  .glitch::after {
+    animation: glitchBot 1.5s infinite linear alternate-reverse;
+    color: #f0f;
+    text-shadow: 2px 2px #00f7ff;
+  }
+  @keyframes glitchTop {
+    0% { clip: rect(0, 900px, 10px, 0); }
+    50% { clip: rect(20px, 900px, 30px, 0); transform: translate(-2px, -2px); }
+    100% { clip: rect(5px, 900px, 15px, 0); }
+  }
+  @keyframes glitchBot {
+    0% { clip: rect(85px, 900px, 120px, 0); }
+    50% { clip: rect(60px, 900px, 80px, 0); transform: translate(2px, 2px); }
+    100% { clip: rect(90px, 900px, 110px, 0); }
+  }
+</style>
+
+<!-- ==================== TITRE PRINCIPAL ==================== -->
 <div align="center">
-  <!-- SVG néon text inline pour un rendu futuriste -->
-  <svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <filter id="neon">
-        <feGaussianBlur stdDeviation="4" result="glow"/>
-        <feMerge>
-          <feMergeNode in="glow"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00F7FF"/>
-        <stop offset="100%" stop-color="#FF00FF"/>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="60%" text-anchor="middle" fill="url(#grad)"
-          font-family="Orbitron, sans-serif" font-size="48" filter="url(#neon)">
-      Stephen Cohen (Papushkado)
-    </text>
-  </svg>
+  <h1 class="neon-text">Stephen Cohen <span style="color:#ff2dfc;">(Papushkado)</span></h1>
+  <p class="neon-text" style="font-size:1.2rem;">
+    🔒 Cybersécurité & Actuariat & IA ／ 🚀 Always Hacking Futures
+  </p>
 </div>
 
-<!-- ==================== BADGES ANIMÉS ==================== -->
+<!-- ==================== BADGES ==================== -->
 <p align="center">
   <a href="mailto:Stephen.cohen.pro@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/📧-Email-red?style=for-the-badge&logo=gmail&logoColor=white&animation=glow" />
+    <img src="https://img.shields.io/badge/📧-Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="email"/>
   </a>
   <a href="#">
-    <img alt="Paris" src="https://img.shields.io/badge/📍-Paris-0055FF?style=for-the-badge&logo=mapbox&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/📍-Paris-white?style=for-the-badge&logo=google-maps&logoColor=0055FF" alt="location"/>
   </a>
   <a href="https://www.linkedin.com/in/stephen-cohen-491964163/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="linkedin"/>
   </a>
 </p>
 
 ---
 
-<div align="center" style="background:#111; padding:1rem; border-radius:1rem; box-shadow:0 0 20px #00F7FF;">
-  <p style="color:#0ff; font-family:monospace;">
-    🎓 Étudiant en **Cybersécurité** ／ **Actuariat** ／ **IA & Cloud**<br/>
-    🔍 Ponts entre technique, risques et innovation<br/>
-    🚀 Toujours en quête de défis « hackables »
+<!-- ==================== À PROPOS ==================== -->
+<div class="bg-gradient">
+  <p style="color:#fff; font-family:'Share Tech Mono', monospace; font-size:1rem;">
+    Étudiant à la croisée de la <strong>Cybersécurité</strong>, de l’<strong>Actuariat</strong> et de l’<strong>IA & Cloud</strong>.<br/>
+    Mon credo : <em>« Apprendre. Prototyper. Sécuriser. »</em><br/>
+    Toujours prêt à hacker le status quo.
   </p>
 </div>
 
 ---
 
-## 👾 DOMAINES D’EXPERTISE
+## <span class="glitch" data-text="DOMAINES D’EXPERTISE">DOMAINES D’EXPERTISE</span>
 
-<details open>
-  <summary style="font-size:1.1rem; font-weight:bold; cursor:pointer;">
+<details>
+  <summary class="neon-text" style="font-size:1.1rem; cursor:pointer;">
     🛡️ Cybersécurité & Red Team
   </summary>
-
-  - 🎯 **Write-ups CTFs**  
-    Analyse et résolution de challenges (pwn, crypto, web) sur 404CTF, UnitedCTF et MidnightCTF. Exemples : exploitation de buffer overflow, déchiffrement RSA custom, et bypass d’UAC par DLL hijacking.
-  - 🛰️ **IMSI Catcher**  
-    Conception d’un simulateur d’IMSI-catcher, reverse-engineering de firmwares radio, et présentation technique de la détection et mitigation des faux relais cellulaires.
-  - ⚖️ **SSI Groupama**  
-    Audit de la plateforme SWIFT, revue de conformité DORA, application de la méthode EBIOS RM pour identification et réduction des risques critiques.
+  <ul>
+    <li><strong>Write-ups CTFs</strong> – exploitation de buffer overflows, forçage RSA maison, web-hacking, sur 404CTF, UnitedCTF, MidnightCTF.</li>
+    <li><strong>IMSI Catcher</strong> – simulateur et reverse-engineering de faux relais GSM, atelier détection & mitigation.</li>
+    <li><strong>SSI Groupama</strong> – audit SWIFT, mise en conformité DORA, méthode EBIOS RM pour cartographie des risques.</li>
+  </ul>
 </details>
 
 <details>
-  <summary style="font-size:1.1rem; font-weight:bold; cursor:pointer;">
+  <summary class="neon-text" style="font-size:1.1rem; cursor:pointer;">
     ☁️ Cloud & Infra DevOps
   </summary>
-  
-  - 📡 **DBCluster**  
-    Déploiement d’un cluster MySQL haute-disponibilité sur AWS (EC2 + RDS), configuration de ProxySQL et d’une API de gestion, avec scripts Terraform et playbooks Ansible.
-  - 🔄 **MapReduce Social Graph**  
-    Implémentation d’une pipeline MapReduce sur EMR pour analyser des datasets Twitter : détection de communautés, calcul de centralité, et visualisation réseau interactive.
-  - 🌐 **WiFi Roaming Mesh**  
-    Mise en place d’un réseau mesh OpenWrt + FreeRadius, configuration WPA2-Enterprise, automatisation du provisioning de nouveaux nœuds via Docker et scripts shell.
+  <ul>
+    <li><strong>DBCluster</strong> – cluster MySQL HA sur AWS (EC2, RDS), ProxySQL, automations Terraform & Ansible.</li>
+    <li><strong>MapReduce Social</strong> – pipeline EMR pour analyse de graphes Twitter : centralité, détection de communautés.</li>
+    <li><strong>WiFi Mesh</strong> – OpenWrt & FreeRadius, WPA2-Enterprise, provisioning automatique Docker/Shell.</li>
+  </ul>
 </details>
 
 <details>
-  <summary style="font-size:1.1rem; font-weight:bold; cursor:pointer;">
+  <summary class="neon-text" style="font-size:1.1rem; cursor:pointer;">
     📈 Actuariat & Risk Modelling
   </summary>
-  
-  - 🌪️ **SCOR Internal Model**  
-    Développement d’un modèle hybride ALM/DLM pour estimation de pertes liées aux ouragans aux USA. Back-testing sur données NOAA, simulation Monte-Carlo, KPI Solvabilité II.
-  - 🤖 **Cyber CAT Models**  
-    Élaboration de scénarios de sinistres cyber : collecte de données breach, calibration de distributions de perte, et dashboard interactif en Dash/Plotly.
-  - 🌐 **Bayesian Statistics**  
-    Modélisation bayésienne de durée de vie d’équipements industriels, construction de priors adaptés, estimation par MCMC (PyMC3) et comparaison avec maximum de vraisemblance.
-  - 🏘️ **Real-Estate Prediction**  
-    Projet XGBoost sur base DVF pour prédire les prix immobiliers : feature engineering géospatial, validation croisée temporelle, et exposé des performances via Streamlit.
+  <ul>
+    <li><strong>SCOR Internal Model</strong> – ALM/DLM hybride pour ouragans USA, back-testing NOAA, simulation Monte-Carlo.</li>
+    <li><strong>Cyber CAT Models</strong> – scénarios de sinistres cyber, calibrage de pertes, dashboard Dash/Plotly.</li>
+    <li><strong>Bayesian Statistics</strong> – estimation bayésienne de durée de vie, MCMC PyMC3 vs ML classique.</li>
+    <li><strong>Real-Estate Prediction</strong> – XGBoost + DVF, feature engineering géospatial, interface Streamlit.</li>
+  </ul>
 </details>
 
 <details>
-  <summary style="font-size:1.1rem; font-weight:bold; cursor:pointer;">
+  <summary class="neon-text" style="font-size:1.1rem; cursor:pointer;">
     🤖 IoT & Prototypage
   </summary>
-  
-  - 🌍 **IoT_Telecom**  
-    Plateforme Dockerisée de collecte et traitement de données capteurs (MQTT + InfluxDB + Grafana), dashboard temps réel et alerting via Webhooks.
-  - 🧭 **Indoor Localisation**  
-    Solution Bluetooth fingerprinting : calibration de map de signaux, algorithme K-NN et SVM, précision <2 m en environnement de bureau.
-  - 🎉 **SMARTIES**  
-    Infrastructure API + capteurs pour soirées connectées : interactions mobiles via WebSocket, automatisation d’effets lumières et son synchronisés.
+  <ul>
+    <li><strong>IoT_Telecom</strong> – stack MQTT, InfluxDB, Grafana en Docker, alerting Webhooks.</li>
+    <li><strong>Indoor Localisation</strong> – Bluetooth fingerprinting, K-NN/SVM, précision <2 m.</li>
+    <li><strong>SMARTIES</strong> – soirées connectées: API WebSocket + capteurs pour show lumières/son.</li>
+  </ul>
 </details>
 
 ---
 
-## 🛠️ TECH STACK
+## <span class="glitch" data-text="TECH STACK">TECH STACK</span>
 
 ```yaml
 languages: [Python, C, Java, Kotlin, JavaScript, HTML/CSS, PHP]
 cloud:     [AWS, Terraform, Docker, Ansible, Azure Databricks]
-secops:    [EBIOS RM, Threat Modeling, Cryptography, CTF]
+secops:    [EBIOS RM, Threat Modeling, Cryptography, CTFs]
 ml/data:   [pandas, XGBoost, PyMC3, Dash/Plotly]
 network:   [OpenWrt, FreeRadius, Linux, Bash]
 ```
