@@ -1,5 +1,5 @@
-<!-- ==================== CADRE NÉON CYBERPUNK (ROSE) ==================== -->
-<table align="center" border="2" cellpadding="8" cellspacing="0" style="border-color:#FF00FF;border-collapse:collapse;">
+<!-- ==================== CADRE CYBERPUNK 2077 ==================== -->
+<table align="center" border="3" cellpadding="8" cellspacing="0" style="border-color:#FF00FF;border-collapse:collapse;background:#0D0D0D;box-shadow:0 0 16px #FF00FF;">
   <tr>
     <td>
 
@@ -10,22 +10,22 @@
     alt="Papushkado" />
 </p>
 
-<!-- BADGES CONTACT -->
+<!-- BADGES CONTACT ULTRA-STYLÉS -->
 <p align="center">
   <a href="mailto:Stephen.cohen.pro@gmail.com">
-    <img src="https://img.shields.io/badge/📧-Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="email"/>
+    <img src="https://img.shields.io/badge/✉️-Email-FF00FF?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.google.fr/maps?q=Place+de+la+Nation,+Paris">
-    <img src="https://img.shields.io/badge/📍-Paris-white?style=for-the-badge&logo=google-maps&logoColor=0055FF" alt="location"/>
+    <img src="https://img.shields.io/badge/📍-Paris-FF00FF?style=flat-square&logo=openstreetmap&logoColor=white" alt="Paris"/>
   </a>
   <a href="https://www.linkedin.com/in/stephen-cohen-491964163/">
-    <img src="https://img.shields.io/badge/🔗-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/🔗-LinkedIn-FF00FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 <!-- BANDEROLE DE CONTEXTE -->
 <div align="center">
-  <p style="font-family:'Share Tech Mono',monospace;color:#FF00FF;background:#111111;display:inline-block;padding:1rem 2rem;border-radius:0.75rem;box-shadow:0 0 16px #FF00FF;">
+  <p style="font-family:'Share Tech Mono',monospace;color:#FF00FF;background:#111111;display:inline-block;padding:1rem 2rem;border-radius:0.75rem;box-shadow:0 0 12px #FF00FF;">
     🎓 Cybersécurité ／ Actuariat ／ IA & Cloud<br>
     🔍 Ponts technique – risque – innovation<br>
     🚀 Toujours prêt à hacker l’avenir
@@ -36,7 +36,7 @@
 
 <!-- SECTION DOMAINE D’EXPERTISE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/DOMAINES%20D’EXPERTISE-FF00FF?style=for-the-badge&logoColor=111111" alt="Domaines d'expertise"/>
+  <img src="https://img.shields.io/badge/DOMAINES%20D’EXPERTISE-FF00FF?style=for-the-badge&logo=none&logoColor=white" alt="Domaines d'expertise"/>
 </p>
 <details open>
   <summary style="font-family:'Orbitron',monospace;color:#FF00FF;font-size:1.2rem;">
@@ -44,11 +44,11 @@
   </summary>
 
   - [**Write-ups CTFs**](https://github.com/Papushkado/Write-ups-CTFs)  
-    Exploitation de buffer overflows, contournement RSA sur-mesure, web-hacking (404CTF, UnitedCTF, MidnightCTF).  
+    🚩 Buffer overflow, RSA custom & web-hacking (404CTF, UnitedCTF, MidnightCTF).  
   - **IMSI Catcher**  
-    Simulateur & reverse-engineering de faux relais GSM, atelier détection/mitigation.  
+    🛰️ Simulateur & reverse-engineering de faux relais GSM.  
   - **SSI DORA – Groupama AM**  
-    Audit SWIFT, conformité DORA, cartographie des risques via EBIOS RM.  
+    🔒 Audit SWIFT, conformité DORA, cartographie des risques (EBIOS RM).  
 </details>
 
 <details open>
@@ -56,12 +56,12 @@
     ☁️ Cloud & Infra DevOps
   </summary>
 
-  - [**Data Base Cluster**](https://github.com/Papushkado/DBCluster)  
-    Cluster MySQL HA sur AWS, ProxySQL, LB & Security (Terraform + Ansible).  
+  - [**DBCluster**](https://github.com/Papushkado/DBCluster)  
+    ☁️ MySQL HA AWS, ProxySQL, Terraform & Ansible.  
   - [**MapReduce Social**](https://github.com/Papushkado/MapReduce)  
-    Pipeline Map/Reduce sur EMR pour analyser graphes Twitter : centralité, détection de communautés.  
+    📊 EMR pipeline pour graphes Twitter : centralité & communautés.  
   - **WiFi Mesh**  
-    Réseau mesh OpenWrt & FreeRadius, WPA2-Enterprise, provisioning automatique via Docker/Shell.  
+    🌐 OpenWrt & FreeRadius, WPA2-Enterprise, provisioning Docker/Shell.  
 </details>
 
 <details open>
@@ -69,14 +69,14 @@
     📈 Actuariat & Risk Modelling
   </summary>
 
-  - **Modèle Interne Hybride ALM/DLM – SCOR**  
-    Estimation de pertes ouragans USA, back-testing NOAA & simulation Monte-Carlo.  
+  - **Modèle Hybride ALM/DLM – SCOR**  
+    🌪️ Pertes ouragans USA, back-testing NOAA & Monte-Carlo.  
   - **Cyber CAT Models – Dattak**  
-    Scénarios sinistres cyber, calibrage des distributions, dashboard interactif (Dash/Plotly).  
+    🤖 Scénarios sinistres cyber & dashboard Dash/Plotly.  
   - [**Bayesian Statistics**](https://github.com/Papushkado/Bayesian_Statistics)  
-    MCMC (PyMC3) vs ML classique pour estimation de durée de vie.  
+    📐 MCMC (PyMC3) vs ML classique pour vie machine.  
   - [**Real-Estate Prediction**](https://github.com/Papushkado/Real-Estate-predictions)  
-    XGBoost + DVF, feature engineering géospatial, interface Streamlit.  
+    🏠 XGBoost + DVF, feature engineering & Streamlit.  
 </details>
 
 <details open>
@@ -85,16 +85,16 @@
   </summary>
 
   - [**Indoor Localisation**](https://github.com/Papushkado/GIN206_localisation_indoors)  
-    Article recherche : Bluetooth fingerprinting, K-NN/SVM, précision < 2 m.  
+    📶 Bluetooth fingerprinting, K-NN/SVM, précision <2 m.  
   - [**SMARTIES**](https://github.com/Papushkado/ioT_Telecom)  
-    Soirées connectées : API WebSocket + capteurs pour show lumières/son.  
+    🎉 Soirées connectées : API WebSocket + capteurs.  
 </details>
 
 ---
 
 <!-- TECH STACK -->
 <p align="center">
-  <img src="https://img.shields.io/badge/TECH%20STACK-FF00FF?style=for-the-badge&logoColor=111111" alt="Tech Stack"/>
+  <img src="https://img.shields.io/badge/TECH%20STACK-FF00FF?style=for-the-badge&logo=none&logoColor=white" alt="Tech Stack"/>
 </p>
 <pre style="background:#111111;color:#FF00FF;padding:1rem;border-radius:0.5rem;font-family:'Share Tech Mono',monospace;">
 languages: [Python, C, Java, Kotlin, JavaScript, HTML/CSS, PHP]
@@ -108,7 +108,7 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
 
 <!-- VALEURS & PASSIONS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/VALEURS%20&%20PASSIONS-FF00FF?style=for-the-badge&logoColor=111111" alt="Valeurs & Passions"/>
+  <img src="https://img.shields.io/badge/VALEURS%20%26%20PASSIONS-FF00FF?style=for-the-badge&logo=none&logoColor=white" alt="Valeurs & Passions"/>
 </p>
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/64/ff00ff/rocket.png" alt="rocket"/> 
@@ -123,11 +123,11 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
 
 <!-- PROJETS ANNEXES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJETS%20ANNEXES-FF00FF?style=for-the-badge&logoColor=111111" alt="Projets Annexes"/>
+  <img src="https://img.shields.io/badge/PROJETS%20ANNEXES-FF00FF?style=for-the-badge&logo=none&logoColor=white" alt="Projets Annexes"/>
 </p>
 - 🌿 **IPPermaculture** – guide & ateliers d’agroécologie étudiante.  
-- 🧠 **Philosophie × Manga** – essai libre-accès sur l’éthique dans la pop-culture japonaise.  
-- 💼 **Entrepreneurship Cert.** – startup challenge Polytechnique Paris, de l’idéation au pitch.
+- 🧠 **Philosophie × Manga** – essai open-access sur éthique pop-culture.  
+- 💼 **Entrepreneurship Cert.** – startup challenge Polytechnique Paris.
 
 ---
 
