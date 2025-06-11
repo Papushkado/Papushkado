@@ -1,5 +1,5 @@
 
-<table align="center" border="3" cellpadding="8" cellspacing="0" style="border-color:##FFD500;border-collapse:collapse;background:#0D0D0D;box-shadow:0 0 16px #FFD500;">
+<table align="center" border="3" cellpadding="8" cellspacing="0" style="border-color:##08F7FE;border-collapse:collapse;background:#0D0D0D;box-shadow:0 0 16px #08F7FE;">
   <tr>
     <td>
 
@@ -25,7 +25,7 @@
 
 
 <div align="center">
-  <p style="font-family:'Share Tech Mono',monospace;color:#FFD500;background:#111111;display:inline-block;padding:1rem 2rem;border-radius:0.75rem;box-shadow:0 0 12px #FFD500;">
+  <p style="font-family:'Share Tech Mono',monospace;color:#08F7FE;background:#111111;display:inline-block;padding:1rem 2rem;border-radius:0.75rem;box-shadow:0 0 12px #08F7FE;">
     🎓 Cybersécurité ／ Actuariat ／ IA & Cloud<br>
     🔍 Ponts technique – risque – innovation<br>
     🚀 Toujours prêt à hacker l’avenir
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/DOMAINES%20D’EXPERTISE-FFD500?style=for-the-badge&logo=none&logoColor=white" alt="Domaines d'expertise"/>
 </p>
 <details>
-  <summary style="font-family:'Orbitron',monospace;color:#FFD500;font-size:1.2rem;">
+  <summary style="font-family:'Orbitron',monospace;color:#08F7FE;font-size:1.2rem;">
     🥷 Cybersécurité & Red Team
   </summary>
 
@@ -52,7 +52,7 @@
 </details>
 
 <details>
-  <summary style="font-family:'Orbitron',monospace;color:#FFD500;font-size:1.2rem;">
+  <summary style="font-family:'Orbitron',monospace;color:#08F7FE;font-size:1.2rem;">
     ☁️ Cloud & Infra DevOps
   </summary>
 
@@ -65,7 +65,7 @@
 </details>
 
 <details>
-  <summary style="font-family:'Orbitron',monospace;color:#FFD500;font-size:1.2rem;">
+  <summary style="font-family:'Orbitron',monospace;color:#08F7FE;font-size:1.2rem;">
     📈 Actuariat & Risk Modelling
   </summary>
 
@@ -80,7 +80,7 @@
 </details>
 
 <details>
-  <summary style="font-family:'Orbitron',monospace;color:#FFD500;font-size:1.2rem;">
+  <summary style="font-family:'Orbitron',monospace;color:#08F7FE;font-size:1.2rem;">
     🤖 IoT & Prototypage
   </summary>
 
@@ -96,7 +96,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/TECH%20STACK-FFD500?style=for-the-badge&logo=none&logoColor=white" alt="Tech Stack"/>
 </p>
-<pre style="background:#111111;color:#FFD500;padding:1rem;border-radius:0.5rem;font-family:'Share Tech Mono',monospace;">
+<pre style="background:#111111;color:#08F7FE;padding:1rem;border-radius:0.5rem;font-family:'Share Tech Mono',monospace;">
 languages: [Python, C, Java, Kotlin, JavaScript, HTML/CSS, PHP]
 cloud:     [AWS, Terraform, Docker, Ansible, Azure Databricks]
 secops:    [EBIOS RM, Threat Modeling, Cryptography, CTF]
@@ -112,10 +112,10 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
 </p>
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/64/FFD500/rocket.png" alt="rocket"/> 
-  <img src="https://img.icons8.com/ios-filled/64/#FFD500/book.png" alt="book"/> 
+  <img src="https://img.icons8.com/ios-filled/64/08F7FE/book.png" alt="book"/> 
   <img src="https://img.icons8.com/ios-filled/64/FFD500/handshake.png" alt="handshake"/>
 </p>
-<p align="center" style="font-family:'Share Tech Mono',monospace;color:#FFD500;">
+<p align="center" style="font-family:'Share Tech Mono',monospace;color:#08F7FE;">
   Explorer l’inconnu | Simplifier le complexe | Bâtir l’inattendu
 </p>
 
@@ -138,12 +138,12 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
     <span style="
       display:inline-block;
       padding:1rem 2rem;
-      background:#FFD500;
+      background:#08F7FE;
       color:#0D0D0D;
       font-family:'Orbitron',monospace;
       font-weight:bold;
       border-radius:1rem;
-      box-shadow:0 0 20px #FFD500;
+      box-shadow:0 0 20px #08F7FE;
     ">
       🥷 🚀 Prêt à hacker une idée ? Contacte-moi !
     </span>
