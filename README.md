@@ -38,7 +38,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DOMAINES%20D’EXPERTISE-FF00FF?style=for-the-badge&logo=none&logoColor=white" alt="Domaines d'expertise"/>
 </p>
-<details open>
+<details >
   <summary style="font-family:'Orbitron',monospace;color:#FF00FF;font-size:1.2rem;">
     🥷 Cybersécurité & Red Team
   </summary>
