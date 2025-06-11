@@ -1,7 +1,11 @@
-<!-- ==================== BANNIÈRE NÉON CYBERNINJA ==================== -->
+<!-- ==================== CADRE NÉON ==================== -->
+<table align="center" border="2" cellpadding="8" cellspacing="0" style="border-color:#00F7FF;border-collapse:collapse;">
+  <tr>
+    <td>
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=72&pause=1500&color=00F7FF&background=0D0D0D&center=true&vCenter=true&width=900&height=180&lines=Papushkado"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=64&pause=1500&color=00F7FF&background=0D0D0D&center=true&vCenter=true&width=800&height=150&lines=Papushkado"
     alt="Papushkado" />
 </p>
 
@@ -17,8 +21,6 @@
   </a>
 </p>
 
----
-
 <div align="center">
   <p style="font-family:'Share Tech Mono',monospace;color:#00F7FF;background:#111111;display:inline-block;padding:1rem 2rem;border-radius:0.75rem;box-shadow:0 0 16px #00F7FF;">
     🎓 Cybersécurité ／ Actuariat ／ IA & Cloud<br>
@@ -29,72 +31,69 @@
 
 ---
 
-<!-- ==================== SECTION DIVIDER ==================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Papushkado/brand-assets/main/cyber-divider.svg" width="60%" alt="divider"/>
+  <img src="https://img.shields.io/badge/🗡️_DOMAINES%20D’EXPERTISE-00F7FF?style=for-the-badge&logoColor=111111" alt="Domaines" />
 </p>
 
-## 👾 DOMAINES D’EXPERTISE  
 <details open>
-<summary style="font-family:'Orbitron',monospace;color:#00F7FF;font-size:1.15rem;">
-  🛡️ Cybersécurité & Red Team
-</summary>
+<summary>&nbsp;</summary>
 
+#### 🥷 🛡️ Cybersécurité & Red Team
 - [**Write-ups CTFs**](https://github.com/Papushkado/Write-ups-CTFs)  
-  Exploitation de buffer overflows, contournement RSA, web-hacking (404CTF, UnitedCTF, MidnightCTF).  
+  Exploitation de buffer overflows, contournement RSA sur-mesure, web-hacking (404CTF, UnitedCTF, MidnightCTF).  
 - **IMSI Catcher**  
   Simulateur & reverse-engineering de faux relais GSM, atelier détection/mitigation.  
 - **SSI DORA – Groupama AM**  
   Audit SWIFT, conformité DORA, cartographie des risques via EBIOS RM.  
+
 </details>
 
 <details open>
-<summary style="font-family:'Orbitron',monospace;color:#00F7FF;font-size:1.15rem;">
-  ☁️ Cloud & Infra DevOps
-</summary>
+<summary>&nbsp;</summary>
 
+#### 🥷 ☁️ Cloud & Infra DevOps
 - [**Data Base Cluster**](https://github.com/Papushkado/DBCluster)  
   Cluster MySQL HA sur AWS, ProxySQL, LB & Security (Terraform + Ansible).  
 - [**MapReduce Social**](https://github.com/Papushkado/MapReduce)  
-  Pipeline Map/Reduce sur EMR pour analyser les graphes Twitter : centralité, détection de communautés.  
+  Pipeline Map/Reduce sur EMR pour analyser graphes Twitter : centralité, détection de communautés.  
 - **WiFi Mesh**  
-  Réseau mesh OpenWrt & FreeRadius, WPA2-Enterprise, provisioning automatique via Docker/Shell.  
+  Réseau mesh OpenWrt & FreeRadius, WPA2-Enterprise, provisioning auto via Docker/Shell.  
+
 </details>
 
 <details open>
-<summary style="font-family:'Orbitron',monospace;color:#00F7FF;font-size:1.15rem;">
-  📈 Actuariat & Risk Modelling
-</summary>
+<summary>&nbsp;</summary>
 
-- **Modèle Interne Hybride ALM/DLM – SCOR**  
+#### 🥷 📈 Actuariat & Risk Modelling
+- **SCOR Internal Model**  
   Estimation de pertes ouragans USA, back-testing NOAA & simulation Monte-Carlo.  
 - **Cyber CAT Models – Dattak**  
-  Scénarios sinistres cyber, calibrage des distributions, dashboard interactif (Dash/Plotly).  
+  Scénarios sinistres cyber, calibrage distributions, dashboard interactif (Dash/Plotly).  
 - [**Bayesian Statistics**](https://github.com/Papushkado/Bayesian_Statistics)  
-  MCMC (PyMC3) vs ML classique pour estimation de durée de vie.  
+  MCMC (PyMC3) vs ML classique pour estimation durée de vie.  
 - [**Real-Estate Prediction**](https://github.com/Papushkado/Real-Estate-predictions)  
   XGBoost + DVF, feature engineering géospatial, interface Streamlit.  
+
 </details>
 
 <details open>
-<summary style="font-family:'Orbitron',monospace;color:#00F7FF;font-size:1.15rem;">
-  🤖 IoT & Prototypage
-</summary>
+<summary>&nbsp;</summary>
 
+#### 🥷 🤖 IoT & Prototypage
 - [**Indoor Localisation**](https://github.com/Papushkado/GIN206_localisation_indoors)  
-  Article de recherche sur Bluetooth fingerprinting, K-NN/SVM, précision < 2 m.  
+  Recherche Bluetooth fingerprinting, K-NN/SVM, précision < 2 m.  
 - [**SMARTIES**](https://github.com/Papushkado/ioT_Telecom)  
   Soirées connectées : API WebSocket + capteurs pour show lumières/son.  
+
 </details>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Papushkado/brand-assets/main/cyber-divider.svg" width="60%" alt="divider"/>
+  <img src="https://img.shields.io/badge/🔧_TECH%20STACK-00F7FF?style=for-the-badge&logoColor=111111" alt="Tech Stack" />
 </p>
 
-## 🛠️ TECH STACK  
-<pre style="background:#111;color:#00F7FF;padding:1rem;border-radius:0.5rem;font-family:'Share Tech Mono',monospace;">
+<pre style="background:#111111;color:#00F7FF;padding:1rem;border-radius:0.5rem;font-family:'Share Tech Mono',monospace;">
 languages: [Python, C, Java, Kotlin, JavaScript, HTML/CSS, PHP]
 cloud:     [AWS, Terraform, Docker, Ansible, Azure Databricks]
 secops:    [EBIOS RM, Threat Modeling, Cryptography, CTF]
@@ -104,23 +103,26 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
 
 ---
 
-## 🌟 VALEURS & PASSIONS  
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/64/00ffff/rocket.png" alt="rocket"/> 
-  <img src="https://img.icons8.com/ios-filled/64/ff00ff/book.png" alt="book"/> 
+  <img src="https://img.shields.io/badge/🌟_VALEURS%20&%20PASSIONS-00F7FF?style=for-the-badge&logoColor=111111" alt="Valeurs" />
+</p>
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/64/00ffff/rocket.png" alt="rocket"/>
+  <img src="https://img.icons8.com/ios-filled/64/ff00ff/book.png" alt="book"/>
   <img src="https://img.icons8.com/ios-filled/64/00f7ff/handshake.png" alt="handshake"/>
 </p>
-
 <p align="center" style="font-family:'Share Tech Mono',monospace;color:#00F7FF;">
   Explorer l’inconnu | Simplifier le complexe | Bâtir l’inattendu
 </p>
 
 ---
 
-## 🌐 PROJETS ANNEXES  
-- 🌿 **IPPermaculture** – guide open-source & ateliers d’agroécologie étudiante.  
+<p align="center">
+  <img src="https://img.shields.io/badge/🔭_PROJETS%20ANNEXES-00F7FF?style=for-the-badge&logoColor=111111" alt="Projets Annexes" />
+</p>
+- 🌿 **IPPermaculture** – guide & ateliers d’agroécologie étudiante.  
 - 🧠 **Philosophie × Manga** – essai libre-accès sur l’éthique dans la pop-culture japonaise.  
-- 💼 **Entrepreneurship Cert.** – startup challenge Polytechnique Paris, de l’idéation au pitch.
+- 💼 **Entrepreneurship Cert.** – startup challenge Polytechnique Paris.
 
 ---
 
@@ -136,8 +138,11 @@ network:   [OpenWrt, FreeRadius, Linux, Bash]
       border-radius:1rem;
       box-shadow:0 0 20px #00F7FF;
     ">
-      🚀 Prêt à hacker une idée ? Contacte-moi !
+      🥷 🚀 Prêt à hacker une idée ? Contacte-moi !
     </span>
   </a>
 </p>
 
+    </td>
+  </tr>
+</table>
