@@ -36,11 +36,11 @@ Stephen Cohen - Papushkado
     🛡️ Cybersécurité & Red Team
   </summary>
 
-  - **Write-ups CTFs**  
+  - [**Write-ups CTFs**](https://github.com/Papushkado/Write-ups-CTFs) 
     Exploitation de buffer overflows, contournement RSA, web-hacking (404CTF, UnitedCTF, MidnightCTF).
   - **IMSI Catcher**  
     Simulateur & reverse-engineering de faux relais GSM, atelier détection/mitigation.
-  - **SSI Groupama**  
+  - **SSI DORA - Groupama Asset Management**  
     Audit SWIFT, conformité DORA, cartographie des risques via EBIOS RM.
 </details>
 
