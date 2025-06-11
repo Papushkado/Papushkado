@@ -2,10 +2,11 @@
 
 > Passionné par la **cybersécurité**, l'**actuariat** et les **technologies de pointe**, j'explore sans cesse de nouveaux domaines. Ma principale motivation : **apprendre** 🚀
 
-[![Email](https://img.shields.io/badge/email-stephen.cohen.pro%40gmail.com-red)](mailto:Stephen.cohen.pro@gmail.com)
-[![Location](https://img.shields.io/badge/localisation-Paris%20%2F%20Montr%C3%A9al-blue)](#)
-[![LinkedIn](https://img.shields.io/badge/linkedin-profile-blue)](https://www.linkedin.com/in/stephen-cohen-491964163/)
-
+<p align="center">
+  <a href="mailto:Stephen.cohen.pro@gmail.com"><img src="https://img.shields.io/badge/email-Stephen.Cohen-red?style=for-the-badge&logo=gmail" alt="email"></a>
+  <a href="#"><img src="https://img.shields.io/badge/localisation-Paris_/_Montr%C3%A9al-blue?style=for-the-badge&logo=google-maps" alt="location"></a>
+  <a href="https://www.linkedin.com/in/stephen-cohen-491964163/"><img src="https://img.shields.io/badge/linkedin-Stephen_Cohen-blue?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
+</p>
 ---
 
 ## 🌍 Qui suis-je ?
@@ -17,7 +18,7 @@ Actuellement étudiant en double diplôme à **Télécom Paris** (Master Cybers�
 ## 🎓 Ce que j'apprends & construis
 
 ### ⚡ Cybersécurité
-- 🏅 [CTFs](https://github.com/Papushkado/Write-ups-CTFs) : 404CTF (106°/2800) UnitedCTF 2024 (33ᵒ), MidnightCTF 2024 (13ᵒ), 404CTF 2024 (230ᵒ/3271)
+- 🏅 [CTFs](https://github.com/Papushkado/Write-ups-CTFs) : 404CTF (106°/2893) UnitedCTF 2024 (33ᵒ), MidnightCTF 2024 (13ᵒ), 404CTF 2024 (230ᵒ/3271)
 - 🎓 **IMSI Catcher** — Reverse engineering + démo présentation technique
 - ⚖️ **SSI Groupama** : Audit SWIFT, EBIOS RM, réglementation DORA
 
