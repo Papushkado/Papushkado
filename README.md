@@ -1,5 +1,5 @@
 
-<table align="center" border="3" cellpadding="8" cellspacing="0" style="border-color:##08F7FE;border-collapse:collapse;background:#0D0D0D;box-shadow:0 0 16px #08F7FE;">
+<table align="center" border="3" cellpadding="8" cellspacing="0" style="border-color:#08F7FE;border-collapse:collapse;background:#0D0D0D;box-shadow:0 0 16px #08F7FE;">
   <tr>
     <td>
 
