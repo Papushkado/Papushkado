@@ -20,7 +20,7 @@ Actuellement étudiant en double diplôme à **Télécom Paris** (Master Cybers�
 ### ⚡ Cybersécurité
 - 🏅 [CTFs](https://github.com/Papushkado/Write-ups-CTFs) : 404CTF (106°/2893) UnitedCTF 2024 (33ᵒ), MidnightCTF 2024 (13ᵒ), 404CTF 2024 (230ᵒ/3271)
 - 🎓 **IMSI Catcher** — Reverse engineering + démo présentation technique
-- ⚖️ **SSI Groupama** : Audit SWIFT, EBIOS RM, réglementation DORA
+- ⚖️ **SSI Groupama** : Audit SWIFT, EBIOS RM, réglementation DORA (stage)
 
 ### ☁️ Cloud & DevOps
 - 📦 [DBCluster](https://github.com/Papushkado/DBCluster) : Cluster MySQL sur AWS avec proxy + gateway
