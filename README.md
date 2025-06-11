@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:Stephen.cohen.pro@gmail.com"><img src="https://img.shields.io/badge/email-Stephen.Cohen-red?style=for-the-badge&logo=gmail" alt="email"></a>
-  <a href="#"><img src="https://img.shields.io/badge/localisation-Paris_?style=for-the-badge&logo=google-maps" alt="location"></a>
+  <a href="#"><img src="https://img.shields.io/badge/localisation-Paris-blue?style=for-the-badge&logo=google-maps" alt="location"></a>
   <a href="https://www.linkedin.com/in/stephen-cohen-491964163/"><img src="https://img.shields.io/badge/linkedin-Stephen_Cohen-blue?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
 </p>
 ---
