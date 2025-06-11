@@ -4,7 +4,7 @@
     src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&pause=2000&color=00F7FF&background=111111&center=true&vCenter=true&width=600&height=120&lines=Papushkado" 
     alt="Stephen Cohen - Papushkado" />
 </div>
-
+Stephen Cohen - Papushkado
 <p align="center">
   <a href="mailto:Stephen.cohen.pro@gmail.com">
     <img src="https://img.shields.io/badge/📧-Email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="email"/>
