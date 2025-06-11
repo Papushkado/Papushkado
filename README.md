@@ -1,57 +1,68 @@
-# 👋 Bonjour, je suis **Stephen Cohen** (aka Papushkado)
+# 🤖 Stephen Cohen (Papushkado)
 
-:contentReference[oaicite:13]{index=13}
+> Passionné par la **cybersécurité**, l'**actuariat** et les **technologies de pointe**, j'explore sans cesse de nouveaux domaines. Ma principale motivation : **apprendre** 🚀
 
----
-
-## 🎯 À propos de moi
-
-:contentReference[oaicite:14]{index=14}
+[![Email](https://img.shields.io/badge/email-stephen.cohen.pro%40gmail.com-red)](mailto:Stephen.cohen.pro@gmail.com)
+[![Location](https://img.shields.io/badge/localisation-Paris%20%2F%20Montr%C3%A9al-blue)](#)
+[![LinkedIn](https://img.shields.io/badge/linkedin-profile-blue)](https://www.linkedin.com/in/stephen-cohen-491964163/)
 
 ---
 
-## 🔭 Principaux projets
+## 🌍 Qui suis-je ?
 
-### ✔️ Cloud & Big Data  
-- :contentReference[oaicite:15]{index=15}  
-- :contentReference[oaicite:16]{index=16} :contentReference[oaicite:17]{index=17}
-
-### 📊 Machine Learning & Statistique  
-- :contentReference[oaicite:18]{index=18} :contentReference[oaicite:19]{index=19}  
-- :contentReference[oaicite:20]{index=20} :contentReference[oaicite:21]{index=21}
-
-### 🌐 IoT & Visualisation  
-- :contentReference[oaicite:22]{index=22} :contentReference[oaicite:23]{index=23}  
-- :contentReference[oaicite:24]{index=24} :contentReference[oaicite:25]{index=25}
+Actuellement étudiant en double diplôme à **Télécom Paris** (Master Cybersécurité - Cloud & Mobile Networks - Data Science) et à **l'ISUP** (Master en actuariat), j'ai complété mon parcours à **Polytechnique Montréal** en 2024 pour me spécialiser en **cloud security** et **intelligence artificielle**. Mes domaines de prédilection sont la cybersécurité, la modélisation du risque, les statistiques bayésiennes et l'architecture cloud.
 
 ---
 
-## 🔧 Compétences techniques
+## 🎓 Ce que j'apprends & construis
 
-| Domaine            | Technologies |
-|-------------------|--------------|
-| **Cloud / Infra** | AWS EC2, VPC, proxies, Docker, CI/CD |
-| **Big Data**       | Hadoop, Spark, MapReduce |
-| **Data Science**   | Python, Jupyter, XGBoost, Bayesian modeling |
-| **IoT**            | Docker, ThingsBoard, plateformes REST |
-| **Langages**       | Python, JavaScript, TeX, Shell |
+### ⚡ Cybersécurité
+- 🏅 [CTFs](https://github.com/Papushkado/CTF-Writeups) : UnitedCTF (33ᵒ), MidnightCTF (13ᵒ), 404CTF (230ᵒ/3271)
+- 🎓 **IMSI Catcher** — Reverse engineering + démo présentation technique
+- ⚖️ **SSI Groupama** : Audit SWIFT, EBIOS RM, réglementation DORA
 
----
+### ☁️ Cloud & DevOps
+- 📦 [DBCluster](https://github.com/Papushkado/DBCluster) : Cluster MySQL sur AWS avec proxy + gateway
+- 🧰 **WiFi Roaming**: Projet Réseau mesh avec OpenWrt + FreeRadius
 
-## 🤝 Intéressé par…
+### 📊 Statistiques & Actuariat
+- 🤝 **SCOR Internal Model**: Modèle hybride ALM/DLM (Agregated / Detailed Loss Model) ouragans USA (stage)
+- 🤖 **Cyber CAT Models**: Modèles de sinistres cyber (empirique + scénario) (Stage)
+- 🌐 [Bayesian_Statistics](https://github.com/Papushkado/Bayesian_Statistics) : Modélisation bayésienne de durée de vie
+- 🏠 [Real-Estate‑predictions](https://github.com/Papushkado/Real-Estate-predictions) : Prédiction immobilière (XGBoost, DVF)
 
-- Projets autour de l’**intelligence artificielle**, **infrastructure cloud** ou **statistique appliquée**  
-- Collaboration avec des étudiant·e·s ou des équipes innovantes  
-- Opportunités professionnelles (stagiaire, junior, R&D)
 
----
-
-## 📫 Me contacter
-
-- ✉️ Email : `stephen.cohen@example.com`  
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [Mastodon/@yourhandle](https://mastodon.social/@yourhandle)
+### 🚀 IoT & nouvelles technos
+- 🌆 [IoT_Telecom](https://github.com/Papushkado/IoT_Telecom) : Plateforme cloud pour capteurs connectés
+- 📊 [Indoor Localisation](https://github.com/Papushkado/GIN206_localisation_indoors) : Prototypage + publication
+- 🧱 [SMARTIES](https://github.com/Papushkado/SMARTIES-Soirees-Connectees) : Soirées connectées (API + capteurs)
 
 ---
 
-[![LinkedIn][linkedin-badge]][linkedin-url] [![Mastodon][mastodon-badge]][mastodon-url]
+## 📊 Compétences techniques
+
+| Domaine         | Compétences                                                                 |
+|-----------------|------------------------------------------------------------------------------|
+| Programmation   | Python, C, Kotlin, Java, JS, HTML/CSS, PHP                                  |
+| Cloud & Infra   | AWS, Docker, Azure Databricks, Terraform, Ansible                           |
+| Données & ML    | Pandas, Seaborn, XGBoost, modélisation bayésienne                             |
+| Réseau & Syst.  | OpenWrt, FreeRadius, Linux, Bash                                             |
+| Cybersécurité    | EBIOS RM, cryptographie, CTI, CTFs, audit SSI                             |
+
+---
+
+## 🌿 Ce qui me motive
+
+J'ai une soif constante de **comprendre en profondeur**, d'**explorer de nouveaux domaines** et de **créer des ponts** entre technologies, réglementation, cybersécurité et actuariat. J'aime **construire, modéliser, prototyper**, mais surtout **apprendre** 📚.
+
+---
+
+## 🌟 Divers
+
+- 🌿 **Permaculture** : Fondateur de l'association IPPermaculture
+- 🌎 **Philosophie & manga** : Auteur d'un essai sur les valeurs philosophiques dans les mangas
+- 🎸 **Entreprenariat** : Participant au programme Entrepreneurship Certificate de Polytechnique
+
+---
+
+Merci pour la visite ✨ N'hésite pas à me contacter pour discuter tech, actuariat ou cybersécurité !
