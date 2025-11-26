@@ -96,7 +96,7 @@
   </summary>
 
   - [**Trading Analyses**](https://github.com/Papushkado/Trading_Analysis_Graham)
-    💲 Application de visualisation de critères financiers pour analyser les actions du SBF120. 
+    💲Application de visualisation de critères financiers pour analyser les actions du SBF120. 
 </details>
 
 ---
