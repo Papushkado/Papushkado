@@ -90,6 +90,15 @@
     🎉 Soirées connectées : API WebSocket + capteurs.  
 </details>
 
+<details>
+  <summary style="font-family:'Orbitron',monospace;color:#009FDA;font-size:1.2rem;">
+    ⚙️ Side Projects
+  </summary>
+
+  - [**Trading Analyses**](https://github.com/Papushkado/Trading_Analysis_Graham)
+    💲 Application de visualisation de critères financiers pour analyser les actions du SBF120. 
+</details>
+
 ---
 
 
